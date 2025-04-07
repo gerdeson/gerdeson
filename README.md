@@ -31,7 +31,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente atuando como Cientist
 
 ### 📫 Como me encontrar
 - GitHub: [@gerdeson](https://github.com/gerdeson)
-- LinkedIn: [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com)
+- LinkedIn: www.linkedin.com/in/gerdeson-queiroz-1832a8136
 
 ---
 
